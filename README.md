@@ -1,70 +1,72 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=00ffff&height=250&section=header&text=MD%20MUSHFIQUR%20RAHIM&fontSize=80&animation=glitch&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=300&section=header&text=Md%20Mushfiqur%20Rahim&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-ff00ff?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LOCATION-BANGLADESH-00ffff?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-fcee0a?style=for-the-badge&labelColor=000000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0070f3&center=true&vCenter=true&width=500&lines=Software+Developer;Python+%26+Java+Enthusiast;Exploring+Cloud+%26+AI;Building+Custom+Operating+Systems" />
 </p>
 
-# ⚡ SYSTEM_ACCESS: GRANTED_
+### 💫 About Me
 
-> **[LOG_ENTRY_01]**: 🛠️ Currently working with: **Python**, **Java**, and others.  
-> **[LOG_ENTRY_02]**: 🌱 Currently infiltrating: **Cloud Architecture** and **AI Systems**.  
-> **[LOG_ENTRY_03]**: 💬 Ask me about: **Anything** — the signal is open.
+I am a passionate developer from **Bangladesh** 🇧🇩, dedicated to exploring the depths of software engineering. From crafting custom operating systems to diving deep into AI and Cloud technologies, I love turning complex problems into elegant solutions.
+
+- 🛠️ **Currently working with**: Python, Java, and JavaScript.
+- 🌱 **Learning**: Cloud Computing and AI Architectures.
+- 💬 **Ask me about**: OS Development, Automation, or anything tech-related!
+- ✨ **Fun Fact**: I'm building an x86 Operating System from scratch.
 
 ---
 
-### 🛠️ NEURAL_INTERFACE (TECH_STACK)
+### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-00A4EF?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-### 📊 DATA_STREAM (STATS)
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Mushfiqur123&theme=cyberpunk&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-Mushfiqur123&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0070f3&icon_color=0070f3" alt="Mushfiqur's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0070f3" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mushfiqur123&layout=compact&theme=cyberpunk&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Mushfiqur123&theme=react&hide_border=true&background=0D1117&stroke=0070f3&ring=0070f3&fire=0070f3" alt="Streak Stats" width="89%" />
 </p>
 
 ---
 
-### 💾 TOP_PROJECTS.exe
+### 🌟 Featured Projects
 
-| Project | Description | Stars |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**MD-Mushfiqur123**](https://github.com/MD-Mushfiqur123/MD-Mushfiqur123) | 🌌 Hello World. If you see it You are so ✨special ✨. | ⭐ 12 |
-| [**mushfiqur-os**](https://github.com/MD-Mushfiqur123/mushfiqur-os) | 🖥️ Custom OS with GUI - x86 Bootloader, Protected Mode Kernel, & Window Manager. | ⭐ 0 |
-| [**KRISHNA-AI-RESUME**](https://github.com/MD-Mushfiqur123/KRISHNA-AI-RESUME-ANALYZER2) | 🧠 AI RESUME ANALYZER scoring skills and achievements. | ⭐ 0 |
+| **[mushfiqur-os](https://github.com/MD-Mushfiqur123/mushfiqur-os)** | A custom x86 Operating System with GUI, Window Manager, and VGA Graphics built from scratch. | `C` `Assembly` |
+| **[KRISHNA-AI-RESUME](https://github.com/MD-Mushfiqur123/KRISHNA-AI-RESUME-ANALYZER2)** | AI-powered resume analyzer that scores skills and achievements. | `JavaScript` `AI` |
+| **[NGL-Phish](https://github.com/MD-Mushfiqur123/NGL-Phish)** | A security research tool focused on social engineering awareness. | `Security` `Web` |
 
 ---
 
-### 📡 CONNECT_WITH_ME
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://twitter.com/MDMushfiqur123">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/MD-Mushfiqur123/">
-    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=ff00ff" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mushfiqur.rahim@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ffff&height=30&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=2&section=footer" width="100%" />
 </p>
